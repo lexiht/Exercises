@@ -3,7 +3,7 @@ package com.company;
 public class TriangleDiamond {
 
     public static void main(String[] args) {
-	    printOneAsterisk();
+	printOneAsterisk();
         printVerticalLine(3);
         printRightTriangle(3);
         printIsoscelesTriangle(3);
